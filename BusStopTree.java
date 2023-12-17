@@ -1,17 +1,4 @@
-////////////////// FILE HEADER //////////////////////////////
-//
-// Title: p09 Bus Stop Tree
-// Course: CS 300 Fall 2023
-//
-// Author: Grant Hohol
-// Email: ghohol@wisc.edu
-// Lecturer: Mark Mansi
-//
-///////////////// OUTSIDE HELP /////////////////////////////
-//
-// Persons: none
-// Online sources: none
-//
+
 
 import java.time.LocalTime;
 import java.util.Iterator;
