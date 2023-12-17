@@ -29,8 +29,6 @@ public class BusDriver {
     System.out.print("Enter departure stop ID: ");
     int stopId = sc.nextInt();
 
-    // TODO: (optional) make a better interface -- maybe allow specifying a time or destination?
-
     sc.close();
 
     // Construct the BST.
